@@ -1,6 +1,7 @@
 body {
-    background-color: #003B6F;
-    h1 {
+    background-color: #003B6;
+}
+ h1 {
     color: white;
     }
     h2 {
@@ -9,5 +10,3 @@ body {
     P {
     color: white;
     }
-}
-
