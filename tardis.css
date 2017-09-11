@@ -13,6 +13,6 @@ body {
     color: white;
     }
 img {
-    display: block;
+    display: inline;
     margin: auto;
    }
