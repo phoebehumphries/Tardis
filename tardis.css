@@ -29,13 +29,13 @@ footer {
   } 
 div#image {
    float: right;
-    background-color: green;
+    
     width: 625px;
     margin-right: 50px;
      }
 div#text {
    float: left;
-    background-color: red;
+    
     width: 625px;
     margin-left: 50px;
 }
