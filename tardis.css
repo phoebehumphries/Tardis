@@ -20,7 +20,8 @@ body {
     float: left;
     }
 img {
-    
+    float: right;		     
+    padding-right: 30px;
    
    }
 footer {
