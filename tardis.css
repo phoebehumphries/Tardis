@@ -35,6 +35,6 @@ div#image {
 div#text {
    float: left;
     background-color: red;
-    width: 500px;
+    width: 1000px;
     margin-left: 50px;
 }
