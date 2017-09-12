@@ -29,7 +29,8 @@ footer {
      width: 100%;
    
  audio {
-    bottom: 100px;
+     position: fixed; 
+     bottom: 100px;
     }
    
   } 
