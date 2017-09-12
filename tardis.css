@@ -10,7 +10,7 @@ body {
     
 h2 {
     color: white;
-    margin: 10px 100px 15px 60px;   
+    margin: 10px 100px 25px 60px;   
     }
    
 p1 {
@@ -46,14 +46,18 @@ footer {
      text-align: center;    
      bottom: 0px; 
      width: 100%;
+     font-size: 80%;
+     color: dark grey;
 }
    
 div#audio {
   float: left;    
-  bottom: 80px;
+  bottom: 130px;
   position: fixed;
   margin-left: 60px;
-  opacity: 0.5;
+  left: 150;
+  opacity: 0.6;
+  
  
 }
    
