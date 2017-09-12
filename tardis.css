@@ -20,10 +20,10 @@ body {
     }
 img {
     float: right;
-    padding-left: 550px;
+    padding-right: 30px;
    }
 footer {
-    float: right;
+   display: block
     margin: auto;
     
    
