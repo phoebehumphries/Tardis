@@ -20,7 +20,9 @@ body {
     
     }
 img {
-     position: fixed; 
+     position: fixed;
+     float: right;
+    
 
     }
 
@@ -44,7 +46,7 @@ div#audio {
 div#image {
    float: right;
     
-    width: 625px;
+    width: 300px;
     margin-right: 50px;
      }
 div#text {
