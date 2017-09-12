@@ -34,6 +34,7 @@ div#image {
    float: right;
     background-color: green;
     width: 500px;
+    padding-right: 100px;
      }
 div#text {
    float: left;
