@@ -38,7 +38,7 @@ div#audio {
   background-color: red;
   float: left;    
   bottom: 10px;
-  position: absolute;
+  position: static;
   
    
   
