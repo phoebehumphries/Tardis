@@ -37,8 +37,8 @@ footer {
 div#audio {
   background-color: red;
   float: left;    
-  bottom: 10px;
-  position: static;
+  bottom: 30px;
+  position: fixed;
   
    
   
