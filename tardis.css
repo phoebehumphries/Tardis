@@ -45,13 +45,14 @@ div#audio {
   } 
 div#image {
    float: right;
-    
+    background-color: red;
+ 
     width: 300px;
     margin-right: 50px;
      }
 div#text {
    float: left;
-    
+    background-color: red;
     width: 625px;
     margin-left: 50px;
 }
