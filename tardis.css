@@ -40,4 +40,5 @@ div#text {
    float: left;
     background-color: red;
     width: 500px;
+    margin-left: 100px;
 }
