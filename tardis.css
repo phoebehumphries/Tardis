@@ -31,10 +31,10 @@ footer {
    
 div#audio {
   background-color: red;
-  position: fixed;     
+       
   float: left;    
   bottom: 0px; 
-  width: 100%;
+  
 }
    
   } 
