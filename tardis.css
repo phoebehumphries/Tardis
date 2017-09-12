@@ -28,9 +28,8 @@ footer {
      bottom: 0px; 
      width: 100%;
    
-audio {
-  float: right;
-  margin-top:0;
+div#audio {
+  
 }
    
   } 
