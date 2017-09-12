@@ -28,10 +28,10 @@ footer {
      bottom: 0px; 
      width: 100%;
    
- audio {
-     position: fixed; 
-     bottom: 100px;
-    }
+audio {
+  float: right;
+  margin-top:0;
+}
    
   } 
 div#image {
