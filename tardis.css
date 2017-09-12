@@ -13,17 +13,31 @@ h2 {
     margin: 10px 100px 15px 60px;   
     }
    
-
-P {
+p1 {
     color: white;
     margin-bottom: 50px;
     margin-left: 10px;
     margin-right: 30px;
     
     }
+
+p2 {
+    color: white;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 30px;
+    
+    }
+
+p3 {
+    color: white;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 30px;
+    
+    }
+
 img {
-    
-    
 
     }
 
@@ -35,30 +49,51 @@ footer {
 }
    
 div#audio {
-  background-color: red;
   float: left;    
   bottom: 80px;
   position: fixed;
   margin-left: 60px;
   opacity: 0.5;
-  
-   
-  
+ 
 }
    
-  
 div#image {
    float: right;
-    
    margin-right: 60px;
-
-    
-     
 
 }
 div#text {
    float: left;
-    
     width: 625px;
     margin-left: 50px;
+    <!--background-color: pink;
+    position: relative;
+
+
+}
+
+div#text2 {
+   
+    width: 625px;
+    margin-left: 50px;
+    float: left;
+    <!--background-color: red;
+    position: absolute;
+    bottom: 415px;
+    
+    
+}
+
+div#text3 {
+   
+    width: 625px;
+    margin-left: 50px;
+    float: left;
+    <!--background-color: orange;
+    position: absolute;
+    bottom: 250px;
+	
+   
+    
+    
 }
