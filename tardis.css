@@ -9,29 +9,42 @@ body {
     }
     h2 {
     color: white;
-    margin: 10px 15px 30px 30px;   
+    margin: 10px 15px 15px 80px;   
     }
     P {
     color: white;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-right: 600px;
+    
+    margin-bottom: 50px;
     margin-left: 30px;
-    float: left;
+    margin-right: 30px;
+    
     }
 img {
+<<<<<<< HEAD
     float: right;		     
     padding-right: 30px;
    
    }
+=======
+    }
+
+>>>>>>> phoebehumphries-patch-1
 footer {
-    float: right;
-    margin: auto;
+     position: fixed;     
+     text-align: center;    
+     bottom: 0px; 
+     width: 100%;
    
   } 
 div#image {
- 
+   float: right;
+    
+    width: 625px;
+    margin-right: 50px;
      }
 div#text {
-   
+   float: left;
+    
+    width: 625px;
+    margin-left: 50px;
 }
