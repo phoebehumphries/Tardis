@@ -30,8 +30,8 @@ footer {
    
   } 
 div#image {
- 
+   float: right;
      }
 div#text {
-   
+   float: left;
 }
