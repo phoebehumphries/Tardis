@@ -37,8 +37,8 @@ footer {
 div#audio {
   background-color: red;
   float: left;    
-  bottom: 30px;
-  width: 50%;
+  bottom: 0px;
+  width: 20%;
   position: fixed;  
   
 }
@@ -48,7 +48,7 @@ div#image {
    float: right;
     background-color: green;
     width: 300px;
-    margin-left: 100px;
+    margin-left: 60px;
      
 
 }
