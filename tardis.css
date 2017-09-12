@@ -28,7 +28,9 @@ footer {
      bottom: 0px; 
      width: 100%;
    
-  
+ audio {
+    bottom: 100px;
+    }
    
   } 
 div#image {
