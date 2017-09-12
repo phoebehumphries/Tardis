@@ -4,7 +4,8 @@ body {
  h1 {
     color: white;
      text-align:center;
-     font-size: 250%;
+     font-size: 400%;
+     padding: 50px 30px 50px 80px;
     }
     h2 {
     color: white;
