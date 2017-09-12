@@ -32,8 +32,10 @@ footer {
 div#image {
    float: right;
     background-color: green;
+    width: 500px;
      }
 div#text {
    float: left;
     background-color: red;
+    width: 500px;
 }
