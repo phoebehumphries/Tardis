@@ -23,7 +23,7 @@ img {
     padding-right: 30px;
    }
 footer {
-   display: block
+    float: right;
     margin: auto;
     
    
