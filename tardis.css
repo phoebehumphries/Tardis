@@ -31,7 +31,9 @@ footer {
   } 
 div#image {
    float: right;
+    background-color: green;
      }
 div#text {
    float: left;
+    background-color: red;
 }
