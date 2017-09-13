@@ -31,7 +31,7 @@ img {
     }
 
 footer {    
-     Position: fixed bottom;
+     Position: fixed;
      text-align: center;    
      bottom: 0px; 
      width: 100%;
@@ -61,7 +61,8 @@ div#image {
 }
 #text {
    float: left;
-    
+    background colour: black;
+    colour: white;
     width: 625px;
     margin-left: 50px;
 }
