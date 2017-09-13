@@ -33,5 +33,7 @@ div.image {
  
      }
 div.text {
+    float:left;
+    margin-left; 60px;
    
 }
