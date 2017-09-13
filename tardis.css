@@ -31,7 +31,7 @@ img {
     }
 
 footer {    
-     Position: fixed;
+     Position: bottom;
      text-align: center;    
      bottom: 0px; 
      width: 100%;
